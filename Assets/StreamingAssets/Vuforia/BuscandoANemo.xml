@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pecera" size="1.000000 1.000000" />
+    <ImageTarget name="olas" size="1.000000 1.000000" />
+    <ImageTarget name="burbujas" size="1.000000 1.000000" />
+    <ImageTarget name="barco" size="1.000000 1.000000" />
+    <ImageTarget name="anemona" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
